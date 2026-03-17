@@ -1,0 +1,17 @@
+{
+    "grace_period_seconds": 10,
+    "max_distractions": 5,
+    "detection_confidence": 0.35,
+    "detection_interval_frames": 2,
+    "detection_hold_seconds": 2,
+    "cooldown_seconds": 30,
+    "camera_index": 0,
+    "window_width": 900,
+    "window_height": 600,
+    "focus_score_penalty_per_distraction": 10,
+    "max_camera_retries": 5,
+    "screenshot_on_distraction": true,
+    "sound_enabled": true,
+    "show_popup_on_max_distractions": true,
+    "log_level": "INFO"
+}
